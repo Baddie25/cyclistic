@@ -9,6 +9,6 @@ In this case study, the phases of Google data analysis are followed: ask, prepar
 
 This RMarkdown report, created with Rstudio, focuses on the Prepare, Process, Analyze, Visualize, Share, and Act phases.
 
-You can find a detailed analysis and documentation of its phases here
+You can find a detailed analysis and documentation of its phases  [here](https://docs.google.com/document/d/1tRSRAdU-vXw_QFkk6xtROzSNzotKwZqpSmwgzi_Nfxg/edit#heading=h.qags1g1r4txe)
 
-Final Presentation - Cyclistic bike-share analysis case study
+Final Presentation - [Cyclistic bike-share analysis case study](https://docs.google.com/presentation/d/1jtr2FQtUo0X9GrIjNSLkcMmf5Sf0jAHX9OSTJtIxKVY/edit#slide=id.p)
